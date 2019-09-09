@@ -9,5 +9,7 @@ So far I have learned about the DNS and what cookies actually are. It was also
 interesting to see how data is sent over the internet, in packets.
 
 [Fairbanks Daily News](http://www.newsminer.com/)
+
 [Responses file](./responses.txt)
+
 ![Atom screenshot](./images/atom_progress.png)
