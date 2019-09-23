@@ -7,4 +7,4 @@ Summarize your experience with the GIT Module. What did you learn? What was diff
   In the GIT Module I learned the similarities and differences between how to write, link, and include things in html versus markup. It is also helpful to learn that I do
   not have to drag and drop my files into GitHub Online anymore, since I had made some uploading mistakes in the past. For the most part I feel like I am understanding the material and it hasn't been too hard, but also not easy.
 
-![Assignment 4 screenshot]("./images/Ass4_screenshot.png")
+![Assignment 4 screenshot](./images/Ass4_screenshot.png)
