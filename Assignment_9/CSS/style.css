@@ -38,6 +38,11 @@ p {
     background: #0112FE;
 }
 
+img {
+  width: 300px;
+  height: 300px;
+}
+
   .secondary-container {
     text-align: center;
     border-style: solid;
