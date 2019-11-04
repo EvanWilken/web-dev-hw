@@ -44,6 +44,10 @@ p {
   height: 300px;
 }
 
+hr {
+  opacity: 75%;
+}
+
   .secondary-container {
     text-align: center;
     border-style: solid;
