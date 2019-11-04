@@ -44,7 +44,7 @@ p {
   height: 300px;
 }
 
-hr {
+.opacity75 {
   opacity: 75%;
 }
 
