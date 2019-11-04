@@ -4,12 +4,28 @@
     border-width: 2px;
     border-color: limegreen;
     padding: 10px;
-    background: #373E42;
+    background: #BB01FE;
 }
 
 h1 {
     border-style: solid;
     border-width: 2px;
-    border-color: #0db1f0;
-    background: #73e309;
+    border-color: #FEED01;
+    background: #FE7701;
 }
+
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #01C3FE;
+    background: #0112FE;
+}
+
+  .secondary-container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: limegreen;
+    padding: 5px;
+    background: #3CFE01;
+
+  }
