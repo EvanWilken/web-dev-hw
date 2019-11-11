@@ -22,7 +22,9 @@
   border-style: dashed;
   border-width: 1px;
   border-color: gray;
-  padding: 30px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
   background: #F0F0F9;
   font-family: arial, times;
   font-size: 12px;
