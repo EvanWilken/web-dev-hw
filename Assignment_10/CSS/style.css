@@ -11,7 +11,7 @@
   font-family: times, arial;
   font-weight: bolder;
 }
-.secondary-content p:first-child::first-letter {
+.secondary-container p:first-child::first-letter {
    font-family: 'Kumar One Outline', times;
    font-size: 2em;
    font-weight: bold;
