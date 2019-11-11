@@ -11,7 +11,7 @@
   font-family: times, arial;
   font-weight: bolder;
 }
-.main-content p:first-child::first-letter {
+.secondary-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', times;
    font-size: 2em;
    font-weight: bold;
@@ -22,7 +22,7 @@
   border-style: dashed;
   border-width: 1px;
   border-color: gray;
-  padding: 3px;
+  padding: 30px;
   background: #F0F0F9;
   font-family: arial, times;
   font-size: 12px;
