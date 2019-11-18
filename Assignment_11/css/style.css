@@ -36,16 +36,13 @@
   float:left;
   padding-left: 50px;
   background-color: inherit;
-  vertical-align: middle;
 }
 .home {
   text-align: center;
   background-color:inherit;
-  vertical-align: middle;
 }
 .moreinfo {
   float:right;
   padding-right: 50px;
   background-color:inherit;
-  
 }
