@@ -1,5 +1,6 @@
 *{
   margin: 0px;
+  background-color: #CCFFCC;
 }
 
 .main{
@@ -9,11 +10,11 @@
 
 .top{
   background-color: #006666;
-  padding: 10px;
+  padding: 20px;
 }
 
 .title{
   text-align: center;
   color: white;
-  size: 36px;
+  size: 52px;
 }
