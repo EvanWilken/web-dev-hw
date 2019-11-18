@@ -46,6 +46,9 @@
   float:right;
   background-color:inherit;
 }
+:hover{
+  background-color: blue;
+}
 .pclass{
   display: block;
 }
