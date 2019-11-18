@@ -42,12 +42,14 @@
   text-align: center;
   background-color:inherit;
 }
+.home:hover{
+  background-color: blue;
+}
 .moreinfo {
   float:right;
   background-color:inherit;
 }
-:hover{
-  background-color: blue;
+
 }
 .pclass{
   display: block;
