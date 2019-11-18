@@ -3,18 +3,14 @@
   background-color: #CCFFCC;
 }
 
-.main{
-  background-color: #CCFFCC;
-  padding: 0px;
-}
-
 .top{
   background-color: #006666;
   padding: 40px;
 }
 
 .title{
+  background-color: #006666;
   text-align: center;
   color: white;
-  size: 72px;
+  font-size: 60px;
 }
