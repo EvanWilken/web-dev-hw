@@ -25,23 +25,24 @@
 }
 
 .nav{
-  background-color: gray;
+  background-color: darkgray;
   padding: 15px;
   font-size: 30px;
+  color: white;
 }
 
 .about {
-  text-align: left;
-  background-color:inherit;
+  float:left;
+  background-color: inherit;
   vertical-align: middle;
 }
 .home {
-  text-align: center;
+  float:right;
   background-color:inherit;
   vertical-align: middle;
 }
 .moreinfo {
-  text-align: right;
+  float:right;
   background-color:inherit;
   vertical-align: middle;
 }
