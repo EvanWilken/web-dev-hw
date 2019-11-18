@@ -38,11 +38,11 @@
   background-color: inherit;
 }
 .home {
-  float: center;
+  text-align: center;
   background-color:inherit;
 }
 .moreinfo {
-  text-align: right;
+  float:right;
   padding-right:50px;
   background-color:inherit;
 }
