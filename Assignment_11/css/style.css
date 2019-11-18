@@ -20,6 +20,22 @@
   height: 90px;
   width: 90px;
   padding-left: 100px;
-  padding-bottom: 60px;
+  vertical-align: middle;
   background-color: #006666;
+}
+
+.nav{
+  background-color: gray;
+  padding: 15px;
+  font-size: 30px;
+}
+
+about {
+  text-align: left;
+}
+home {
+  text-align: center;
+}
+moreinfo {
+  text-align: right;
 }
