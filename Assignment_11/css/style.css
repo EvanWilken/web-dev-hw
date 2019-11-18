@@ -43,7 +43,7 @@
   background-color:inherit;
 }
 .home:hover{
-  background-color: blue;
+  color: blue;
 }
 .moreinfo {
   float:right;
