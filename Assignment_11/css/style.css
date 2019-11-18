@@ -42,7 +42,7 @@
   text-align: center;
   background-color:inherit;
 }
-.home:hover{
+h2:hover{
   color: blue;
 }
 .moreinfo {
