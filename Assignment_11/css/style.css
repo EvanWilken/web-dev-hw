@@ -33,12 +33,15 @@
 .about {
   text-align: left;
   background-color:inherit;
+  vertical-align: middle;
 }
 .home {
   text-align: center;
   background-color:inherit;
+  vertical-align: middle;
 }
 .moreinfo {
   text-align: right;
   background-color:inherit;
+  vertical-align: middle;
 }
