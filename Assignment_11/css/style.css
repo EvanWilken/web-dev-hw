@@ -4,9 +4,11 @@
 
 .top{
   background-color: #006666;
+  padding: 10px;
+  margin: 0px;
 }
 
 .title{
-  align-items: center;
+  text-align: center;
   color: white;
 }
