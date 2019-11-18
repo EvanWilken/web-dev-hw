@@ -30,12 +30,12 @@
   font-size: 30px;
 }
 
-about {
-  text-align: left;
+.about {
+  float: left;
 }
-home {
-  text-align: center;
+.home {
+  float: center;
 }
-moreinfo {
+.moreinfo {
   text-align: right;
 }
