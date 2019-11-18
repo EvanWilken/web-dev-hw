@@ -19,7 +19,7 @@
   float: left;
   height: 90px;
   width: 90px;
-  padding-left: 100px;
+  padding-left: 50px;
   vertical-align: middle;
   background-color: #006666;
 }
@@ -38,11 +38,11 @@
   background-color: inherit;
 }
 .home {
-  text-align: center;
+  float: center;
   background-color:inherit;
 }
 .moreinfo {
-  float:right;
-  padding-right: 50px;
+  text-align: right;
+  padding-right:50px;
   background-color:inherit;
 }
