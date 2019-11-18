@@ -1,5 +1,6 @@
-.main-container{
-  background-color: #ccffcc;
+.main{
+  background-color: #CCFFCC;
+  padding: 0px;
 }
 
 .top{
@@ -11,4 +12,5 @@
 .title{
   text-align: center;
   color: white;
+  size: 36px;
 }
