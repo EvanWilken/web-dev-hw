@@ -19,5 +19,7 @@
   float: left;
   height: 90px;
   width: 90px;
+  padding-left: 100px;
+  padding-bottom: 60px;
   background-color: #006666;
 }
