@@ -6,6 +6,7 @@
 .top{
   background-color: #006666;
   padding: 40px;
+  box-sizing: border-box;
 }
 
 .title{
@@ -17,6 +18,7 @@
 .nav{
   background-color: darkgray;
   border: dotted;
+  border-color: #006666
   padding: 15px;
   font-size: 20px;
   color: white;
@@ -25,20 +27,19 @@
 }
 
 .about {
-  float:left;
-  padding-left: 50px;
+  margin:auto;
+  /*padding-left: 50px;*/
   background-color: inherit;
   display: inline-block;
 
 }
 .home {
-  text-align: center;
+  /*text-align: center;*/
   margin: auto;
   background-color:inherit;
   display: inline-block;
 }
 .services{
-  text-align: center;
   margin: auto;
   background-color:inherit;
   display: inline-block;
@@ -47,7 +48,7 @@ h2:hover{
   color: blue;
 }
 .moreinfo {
-  float:right;
+  margin:auto;
   background-color:inherit;
   display: inline-block;
 }
