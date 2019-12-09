@@ -14,18 +14,24 @@
   color: white;
   font-size: 60px;
 }
+
+.main{
+  text-align:center;
+  box-sizing: border-box;
+  width:100%;
+  height:100%;
+}
+
 .nav{
   float: left;
   background-color: darkgray;
   border: dotted;
-  border-color: #006666
-  padding: 15px;
+  border-color: #006666;
   font-size: 20px;
-
   height: 100%;
   width:10%;
+  text-align: left;
 }
-
 .about {
   margin:auto;
   /*padding-left: 50px;*/
@@ -49,14 +55,7 @@ h2:hover{
   background-color:inherit;
 }
 
-}
+
 .pclass{
   display: block;
-}
-
-.main{
-  text-align:center;
-  box-sizing: border-box;
-  width:100%;
-  height: 100%;
 }
