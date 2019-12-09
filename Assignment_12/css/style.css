@@ -6,7 +6,6 @@
 .top{
   background-color: #006666;
   padding: 40px;
-  box-sizing: border-box;
 }
 
 .title{
@@ -16,33 +15,31 @@
   font-size: 60px;
 }
 .nav{
+  float: left;
   background-color: darkgray;
   border: dotted;
   border-color: #006666
   padding: 15px;
   font-size: 20px;
   color: white;
-  height: 40px;
-  width:100%;
+  height: 100%;
+  width:10%;
 }
 
 .about {
   margin:auto;
   /*padding-left: 50px;*/
   background-color: inherit;
-  display: inline-block;
 
 }
 .home {
   /*text-align: center;*/
   margin: auto;
   background-color:inherit;
-  display: inline-block;
 }
 .services{
   margin: auto;
   background-color:inherit;
-  display: inline-block;
 }
 h2:hover{
   color: blue;
@@ -50,7 +47,6 @@ h2:hover{
 .moreinfo {
   margin:auto;
   background-color:inherit;
-  display: inline-block;
 }
 
 }
@@ -60,4 +56,6 @@ h2:hover{
 
 .main{
   text-align: center;
+  box-sizing: border-box;
+  width:100%;
 }
