@@ -21,23 +21,27 @@
   font-size: 20px;
   color: white;
   height: 40px;
-  display: inline-block;
+  width:100%;
 }
 
 .about {
   float:left;
   padding-left: 50px;
   background-color: inherit;
+  display: inline-block;
+
 }
 .home {
   text-align: center;
   margin: auto;
   background-color:inherit;
+  display: inline-block;
 }
 .services{
-  float: left;
+  text-align: center;
   margin: auto;
   background-color:inherit;
+  display: inline-block;
 }
 h2:hover{
   color: blue;
@@ -45,6 +49,7 @@ h2:hover{
 .moreinfo {
   float:right;
   background-color:inherit;
+  display: inline-block;
 }
 
 }
